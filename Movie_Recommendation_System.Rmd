@@ -1,6 +1,6 @@
 ---
 title: "MOVIE RECOMMENDATION SYSTEM"
-author: "Parth Joshi, Asiya Khan, Nishit Mistry"
+author: "Parth Joshi
 date: "27/04/2021"
 output: word_document
 ---
